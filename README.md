@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Roman Viznij!
 
-Proven skills in iOS app development, Android app development, and Flutter development.
+Proven skills in iOS app development, Android app development, Flutter development, and React Native development.
 <br>
 Currently working on iOS and Android app projects using Flutter.
 
